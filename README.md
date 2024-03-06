@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Ofentse+Diale;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
 
-Hey there! 👋 Welcome to my GitHub ReadMe profile!
+Hi there! 👋 Welcome to my GitHub ReadMe profile!
 
 ## About Me
 
@@ -29,11 +29,11 @@ Let's code and create awesome things together! 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind" />
   </a>
 </p>
 
-[![Ofentse's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfentseXI)](https://github.com/thaboxan/github-readme-stats)
+[![Ofentse's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfentseXI)](https://github.com/OfentseXI/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfentseXI&size_weight=0.5&count_weight=0.5)
 ![](https://komarev.com/ghpvc/?username=OfentseXI)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OfentseXI)](https://git.io/streak-stats)
