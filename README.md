@@ -18,7 +18,7 @@ I'm Ofentse Diale, currently studying Software Development at CodeSpace Academy.
 Feel free to reach out to me via:
 
 - 📞 Phone: 0674062257
-- ✉️ Email: thvbojafta@gmail.com
+- ✉️ Email: dofentse69@gmail.com
 - Personal Portfolio: https://ofentsedialeportfolio.netlify.app/
 
 Let's code and create awesome things together! 😄
@@ -33,7 +33,7 @@ Let's code and create awesome things together! 😄
   </a>
 </p>
 
-[![Thaboxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaboxan)](https://github.com/thaboxan/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&size_weight=0.5&count_weight=0.5)
-![](https://komarev.com/ghpvc/?username=thaboxan)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thaboxan)](https://git.io/streak-stats)
+[![Ofentse's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfentseXI)](https://github.com/thaboxan/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfentseXI&size_weight=0.5&count_weight=0.5)
+![](https://komarev.com/ghpvc/?username=OfentseXI)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OfentseXI)](https://git.io/streak-stats)
