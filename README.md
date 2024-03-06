@@ -1,104 +1,39 @@
-## GitHub Profile Checklist
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Ofentse+Diale;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
 
-### Personal Information
-- [ ] **Professional Headline**: Clearly state your professional title and area of expertise.
-- [ ] **Bio**: Include a brief introduction highlighting your background, key skills, and unique qualities or experiences.
-- [ ] **Contact Information**: Provide ways to contact you, such as an email address, and optionally a phone number.
-- [ ] **Personal Website or Portfolio**: Link to a personal website or portfolio if available.
+Hey there! 👋 Welcome to my GitHub ReadMe profile!
 
-### Technical Skills
-- [ ] **Technologies Section**: List the technologies and programming languages you are proficient in.
+## About Me
 
-### Work Experience
-- [ ] **Relevant Positions**: Detail your relevant work experience, including job titles, company names, and dates of employment.
-- [ ] **Responsibilities and Achievements**: Describe key responsibilities, projects, and any achievements or improvements contributed to.
-
-### Education
-- [ ] **Academic Background**: List educational qualifications, including degrees, institutions, and graduation dates.
-- [ ] **Relevant Coursework**: Mention relevant coursework or certifications, especially if they relate to your area of expertise.
-
-### Projects
-- [ ] **Personal Projects Section**: Showcase a selection of personal or academic projects with:
-  - Brief descriptions.
-  - Tech stacks used.
-  - Links to live projects and GitHub repositories.
-
-### Contribution Graph
-- [ ] **Activity Overview**: Maintain an active contribution graph to showcase ongoing engagement with coding and project development.
-
-### Pinned Repositories
-- [ ] **Pinned Repos**: Pin important or impressive repositories to highlight them to visitors, showcasing a range of skills and interests.
-
-### Additional Sections
-- [ ] **Languages**: List languages you are fluent in, especially if relevant to your career interests.
-- [ ] **Volunteer Experience**: Optional, but can showcase soft skills and commitment to community.
-- [ ] **Certifications**: Include any relevant certifications to add credibility to your skills.
+I'm Ofentse Diale, currently studying Software Development at CodeSpace Academy. While my background is in Fine and Visual Arts, I've always been fascinated by coding and decided to pivot into the world of software development. I'm passionate about creating efficient and user-friendly web/mobile applications and bridging the gap between Fine Arts and Graphic/Web Design.
 
 
-# [Your Name]
-### [Your Job Title]
+## Extra Exciting Stuff
 
-I am [a brief introduction about your professional background, skills, and interests]. I have completed [your education or certification], where I gained hands-on experience in various programming languages and technologies.
+- I love problem-solving and collaborating with others to find innovative solutions.
+- Outside of coding, I enjoy emersing myself in art works and pieces that showcase my absolute skill and mastery.
+- I'm always eager to learn and expand my skill set, constantly seeking out new challenges and opportunities for growth.
 
-![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **Your Phone Number**
+## Contact Me
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) [Your Email](mailto:your.email@example.com)
+Feel free to reach out to me via:
 
-![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [Your Portfolio Site](http://www.example.com)
+- 📞 Phone: 0674062257
+- ✉️ Email: thvbojafta@gmail.com
+- Personal Portfolio: https://ofentsedialeportfolio.netlify.app/
 
-## 👾 Technologies
+Let's code and create awesome things together! 😄
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-... [Add more technologies as needed]
 
-# Work Experience
 
-### Your Role
-**Company Name, Location** <br>
-*Start Date - End Date*
+## 🚀 Technologies
 
-- Detail your responsibilities, projects, and achievements.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,figma&theme=light" />
+  </a>
+</p>
 
-### Another Role
-**Company Name, Location** <br>
-*Start Date - End Date*
-
-- More details about your work experience.
-
-# Education
-
-### Your Degree
-**Institution Name, Location** <br>
-*Graduation Date*
-
-- Courses taken and skills acquired.
-
-### Another Degree
-**Institution Name, Location** <br>
-*Graduation Date*
-
-- Further educational background.
-
-# Personal Projects
-
-## Project Name
-**Brief Description:** What the project does and your role in it.
-
-**Tech Stack:** 
-
-![Tech1](Badge-URL)
-![Tech2](Badge-URL)
-... [Add as needed]
-
-**[Link to Project](URL)** | **[GitHub Repository](URL)**
-
-... [Add more projects as needed]
-
-## Connect with me🤝:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
-... [Add other social links as needed]
+[![Thaboxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaboxan)](https://github.com/thaboxan/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&size_weight=0.5&count_weight=0.5)
+![](https://komarev.com/ghpvc/?username=thaboxan)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thaboxan)](https://git.io/streak-stats)
